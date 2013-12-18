@@ -1,3 +1,7 @@
+// Create variables called firstName, lastName, and age.
+
+// Assign the variables your personal information.
+
 var chai   = require('chai')
   , expect = chai.expect
 
